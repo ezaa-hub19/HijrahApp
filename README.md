@@ -1,4 +1,4 @@
-# 📖 HijrahApp | Your Digital Companion for Deeper Islam 🌙
+# 📖 HijrahApp | Aplikasi Islami 🌙
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.com/)
 [![Tech Stack](https://img.shields.io/badge/UI_Framework-Jetpack%20Compose-00CED1?style=for-the-badge&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
