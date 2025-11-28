@@ -92,7 +92,7 @@ Kami menyambut kolaborasi! Jika Anda ingin berkontribusi, silakan:
 
 -----
 
-> **Dibuat dengan Niat Baik oleh [Nama Anda]** | *Semoga Bermanfaat*
+> **Dibuat dengan Niat Baik oleh Reza** | *Semoga Bermanfaat*
 
 ```
 ```
